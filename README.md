@@ -1,6 +1,6 @@
 # MW_AHRS_Maunal
 AHRS_Text -> [ntrexlab/AHRS_Text](https://github.com/ntrexlab/AHRS_Text)</br>
-AHRS_Binary -> [ntrexlab/AHRS_Binary](https://github.com/ntrexlab/AHRS_Binart)</br>
+AHRS_Binary -> [ntrexlab/AHRS_Binary](https://github.com/ntrexlab/AHRS_Binar)</br>
 AHRS_Can -> [ntrexlab/AHRS_Can](https://github.com/ntrexlab/AHRS_Can)</br>
 AHRS_Calibratie -> [ntrexlab/AHRS_Calibratie](https://github.com/ntrexlab/AHRS_Calibratie)</br>
 ***
