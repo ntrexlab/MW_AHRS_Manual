@@ -2,7 +2,7 @@
 AHRS_UI -> [다운로드 경로](https://github.com/ntrexlab/MW_AHRS_Manual/blob/main/AHRS_UI.exe)</br>
 
 AHRS_Text -> [ntrexlab/AHRS_Text](https://github.com/ntrexlab/AHRS_Text)</br>
-AHRS_Binary -> [ntrexlab/AHRS_Binary](https://github.com/ntrexlab/AHRS_Binar)</br>
+AHRS_Binary -> [ntrexlab/AHRS_Binary](https://github.com/ntrexlab/AHRS_Binary)</br>
 AHRS_Can -> [ntrexlab/AHRS_Can](https://github.com/ntrexlab/AHRS_Can)</br>
 AHRS_Calibratie -> [ntrexlab/AHRS_Calibratie](https://github.com/ntrexlab/AHRS_Calibratie)</br>
 PC_AHRS_ROS2 ->[ntrexlab/PC_AHRS_ROS2](https://github.com/ntrexlab/PC_AHRS_ROS2)</br>
